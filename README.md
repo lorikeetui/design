@@ -1,5 +1,5 @@
 # design
-Design soure files and assets for lorikeet
+Design soure files and assets for Lorikeet
 
 
 Figma
@@ -8,10 +8,14 @@ The idea is to use a Figma base theme with Figma styles and UI components, and k
 
 You should be able to build app screens with the components, and change the theming completely by only touching the Figma styles and components, without changing the individual app designs themselves.
 
-Light theme (WIP):
+aragonUI-light-theme:
 
-https://www.figma.com/file/Uekw4xbm78CK4B6rt48xVZZu/base-theme?node-id=0%3A67
+https://www.figma.com/file/Uekw4xbm78CK4B6rt48xVZZu/aragonUI-light-theme
 
-Dark theme (WIP):
+aragonUI-dark-theme:
 
-https://www.figma.com/file/usEHJYrLXfYMBhS0oCctRt/base-theme-dark?node-id=0%3A67
+https://www.figma.com/file/usEHJYrLXfYMBhS0oCctRt/aragonUI-dark-theme
+
+Lorikeet-dark-theme:
+
+https://www.figma.com/file/SD3gkG4lRZUArbPkdTtNvX/lorikeet-dark-theme
