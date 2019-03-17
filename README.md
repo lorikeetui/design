@@ -14,7 +14,7 @@ https://www.figma.com/file/Uekw4xbm78CK4B6rt48xVZZu/aragonUI-light-theme
 
 aragonUI-dark-theme:
 
-https://www.figma.com/file/usEHJYrLXfYMBhS0oCctRt/aragonUI-dark-theme
+https://www.figma.com/file/d50fioyViL82hLd5tHaStS/aragonUI-dark-theme
 
 Lorikeet-dark-theme:
 
