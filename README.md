@@ -18,4 +18,4 @@ https://www.figma.com/file/d50fioyViL82hLd5tHaStS/aragonUI-dark-theme
 
 Lorikeet-dark-theme:
 
-https://www.figma.com/file/SD3gkG4lRZUArbPkdTtNvX/lorikeet-dark-theme
+https://www.figma.com/file/vzjILw9s0M2wWzyje89rVE/lorikeet-dark-theme
